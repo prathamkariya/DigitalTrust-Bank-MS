@@ -1,10 +1,4 @@
-A professional **README.md** is the "face" of your project on GitHub. It tells people what your project does, how to set it up, and how to use it.
 
-Copy and paste the following into a file named `README.md` in your project folder:
-
----
-
-```markdown
 # DT Bank Management System
 
 A robust, GUI-based Banking Management System built with **Python**, **Tkinter**, and **MySQL**. This application allows bank employees to manage customer accounts, perform financial transactions, and maintain secure records.
