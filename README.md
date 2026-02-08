@@ -32,19 +32,17 @@ Before running the application, ensure you have:
    ```bash
    git clone [https://github.com/your-username/DT-Bank-Management.git](https://github.com/your-username/DT-Bank-Management.git)
    cd DT-Bank-Management
-
-```
+   ```
 
 2. **Install Dependencies:**
-```bash
-pip install -r requirements.txt
-
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 3. **Configure Environment Variables:**
-* Copy the `.env.example` file and rename it to `.env`.
-* Open `.env` and enter your MySQL credentials:
+   * Copy the `.env.example` file and rename it to `.env`.
+   * Open `.env` and enter your MySQL credentials:
 
 
 ```text
@@ -82,6 +80,3 @@ This project uses `.env` files to keep sensitive database credentials out of ver
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-```
-
----
