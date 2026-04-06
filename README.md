@@ -1,5 +1,5 @@
 
-# DT Bank Management System
+# DigitalTrust (DT) Bank Management System
 
 A robust, GUI-based Banking Management System built with **Python**, **Tkinter**, and **MySQL**. This application allows bank employees to manage customer accounts, perform financial transactions, and maintain secure records.
 
